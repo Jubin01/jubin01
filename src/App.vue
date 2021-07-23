@@ -1,7 +1,8 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">About</router-link> |
+    <router-link to="/tictactoe">tic-tac-toe</router-link>
   </div>
   <router-view />
 </template>
@@ -12,7 +13,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #2c3e50;  
+}
+
+body{
+  background-color: black;
 }
 
 #nav {
