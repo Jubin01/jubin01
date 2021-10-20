@@ -1,0 +1,13 @@
+main {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 0px;
+}
+  
+.square {
+    border: 1px gray solid;
+    height: 100px;
+    min-width: 50px;
+    min-height: 50px;
+}
