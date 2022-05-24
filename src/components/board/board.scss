@@ -1,13 +1,19 @@
 main {
     display: grid;
     justify-content: center;
-    grid-template-columns: 100px 100px 100px;
+    grid-template-columns: 5% 5% 5%;
     grid-gap: 0px;
 }
   
 .square {
     border: 1px gray solid;
-    height: 100px;
+  //  height: 25%;
     min-width: 50px;
     min-height: 50px;
 }
+
+.square:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }

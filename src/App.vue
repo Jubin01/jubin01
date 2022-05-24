@@ -6,7 +6,13 @@
   </div>
   <router-view />
 </template>
-
+<script>
+export default {
+  setup() {
+    document.write("<style type='text/css'>.noscript { display: none; }</style>");
+  },
+}
+</script>
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -19,7 +25,9 @@
 body{
   background-color: black;
 }
-
+.noscript{
+  color: lightgray;
+}
 #nav {
   padding: 30px;
 

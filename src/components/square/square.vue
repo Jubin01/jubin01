@@ -19,9 +19,9 @@ export default class Square extends Vue {
 
 <style scoped>
 button {
-  width: 100%;
-  height: 100%;
-  font-size: 3.25em !important;
+  /* width: 100%;
+  height: 100%; */
+  font-size: 2em !important;
 }
 
 button[data-player='X']{ color: darkgreen;background-color: aquamarine;}
