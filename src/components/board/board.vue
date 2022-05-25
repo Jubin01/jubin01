@@ -6,7 +6,6 @@
   <h2>Player {{ winner }} won the game!</h2>
   <main>
     <Square
-      class="square"
       v-for="(value,index) in squares"
       :value="value"
       :key="index"
