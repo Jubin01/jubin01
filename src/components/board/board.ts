@@ -26,12 +26,14 @@ import { PropType } from "vue";
     //     }
     // }
 })
+
 export default class Board extends Vue {
     // msg!: string;
     squares!: string[];
     xIsNext!: boolean;
     winner!: string;
     playervar!: string;
+    audio!:HTMLAudioElement;
 
     mounted() {
         this.newGame();
@@ -53,6 +55,8 @@ export default class Board extends Vue {
     }
 
     makeMove(idx: number) {
+        this.audio = new Audio("sound.mp3");
+        this.audio.play();
         if (!this.squares[idx]) {
             this.squares.splice(idx, 1, this.player());
             this.xIsNext = !this.xIsNext;
