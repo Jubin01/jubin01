@@ -1,7 +1,7 @@
 <template>
   <h1>Current Player: {{ playervar }}</h1>
 
-  <button v-on:click="newGame()">Start new Game (Safer to refresh the page)</button>
+  <button v-on:click="newGame()">Start new Game</button>
 
   <h2>Player {{ winner }} won the game!</h2>
   <main>
