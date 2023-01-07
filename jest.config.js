@@ -4,6 +4,7 @@ module.exports = {
     "^.+\\.vue$": "vue-jest",
   },
   testMatch: [
-    '**/src/components/**/*.spec.[jt]s?(x)'
+    '**/src/components/**/*.spec.[jt]s?(x)',
+    '**/src/views/**/*.spec.[jt]s?(x)'
   ]
 };
