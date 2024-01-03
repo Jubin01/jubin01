@@ -1,6 +1,11 @@
 <template>
   <div class="notes">
     <h1>notes</h1>
+    <h6>9-3-2023</h6>
+    <h4>pff. okay. i'm trying to port this site in part or full for 'smart' feature phones. also will try to develop a
+      different version
+      for dumb feature phones like a wap site or an app/s. not really sure how to go about that.
+    </h4>
     <h6>6-1-2023</h6>
     <h4>okay i know everythings center aligned, and it doesn't look right. but anyways blogger page is up (using the
       bloggerapi btw). though won't do
