@@ -1,6 +1,6 @@
 <template>
   <div class="home">   
-    <HelloWorld msg="Welcome to Your lo fi games(not anytime soon) + drum covers channel" />
+    <HelloWorld msg="Welcome to 'Your' games" />
     <div class="footer">
       made with <img alt="Vue logo" src="../assets/logo.png" /> with ❤️
     </div>

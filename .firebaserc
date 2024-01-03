@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "jubin01",
+    "default": "jubin01demo",
     "jubin01": "jubin01demo"
   },
   "targets": {}
