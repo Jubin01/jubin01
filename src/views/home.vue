@@ -1,8 +1,8 @@
 <template>
   <div class="home">   
-    <HelloWorld msg="Welcome to 'Your' games" />
+    <HelloWorld msg="Launchpad" />
     <div class="footer">
-      made with <img alt="Vue logo" src="../assets/logo.png" /> with ❤️
+      Made with <img alt="Vue logo" src="../assets/logo.png" /> with ❤️
     </div>
   </div>
 </template>

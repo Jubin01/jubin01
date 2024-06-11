@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "icon": "assets/icons/smartphone.png",
+      "source": "https://jubin01demo.web.app/#/",
+      "date": "11-06-2024",
+      "note": "Repurpose site to become a collection of links for apps."
+    },
+    {
+      "icon": "assets/icons/cellular-phone.png",
+      "source": "https://jubitrick.web.app/#/",
+      "date": "02-01-2024",
+      "note": "I tried putting up a simple html,css,js game, and it doesn't look right on Opera Mini. I don't have any other reliable j2me browsers lying around to test this. So, it's just just going to be j2me games download or links, or somehow I need to package the html game as a download."
+    },
+    {
+      "icon": "assets/icons/cellular-phone.png",
+      "source": "https://jubitrick.web.app/#/",
+      "date": "30-12-2023",
+      "note": "Whilst we have our small screen website up and running (kindof), the type of games to put up here is a bit of a conundrum. I suppose we achieved what we set out to do, which was to set up a website for basic phones. I can only think of j2me games or simple html based games which can run in browser, not sure about it's offline capability though. Let's see how this goes."
+    },
+    {
+      "icon": "assets/icons/cellular-phone.png",
+      "source": "https://jubitrick.web.app/#/",
+      "date": "12-12-2023",
+      "note": "Here is the feature phone version of the site."
+    },
+    {
+      "icon": "assets/icons/smartphone.png",
+      "source": "https://jubin01demo.web.app/#/",
+      "date": "9-3-2023",
+      "note": "Pff. okay. i'm trying to port this site in part or full for 'smart' feature phones. also will try to develop a different version for dumb feature phones like a wap site or an app/s. not really sure how to go about that."
+    },
+    {
+      "icon": "assets/icons/smartphone.png",
+      "source": "https://jubin01demo.web.app/#/",
+      "date": "6-1-2023",
+      "note": "Okay i know everythings center aligned, and it doesn't look right. but anyways blogger page is up (using the bloggerapi btw). though won't do the same with youtubeapi (if it exists). i'd rather just link youtube videos to blogger. i'd leave my youtube channel link somewhere in this site. maybe i'll use the youtubeapi sometime later. maybe."
+    },
+    {
+      "icon": "assets/icons/smartphone.png",
+      "source": "https://jubin01demo.web.app/#/",
+      "date": "27-12-2022",
+      "note": "How bout importing from youtube? i think that's what i'm gonna try next. though i'm not sure about the comment\nsection making it here. same goes for blogger comments. if it is simple to implement then i'll try. definitely\ndon't think the ability to add comments will come here, cauz that might be a bit difficult to implement?\nhmmm. come to think of it. i can import youtube to blogger, and then import that here as well. so some way or the\nother... \ni'm happy if i can just show the content here, comments may or may not make it :p ."
+    },
+    {
+      "icon": "assets/icons/smartphone.png",
+      "source": "https://jubin01demo.web.app/#/",
+      "date": "26-12-2022",
+      "note": "How bout trying out some (more) unit tests before. just some basic ones, just to get my foot wet (again). it could help later. hopefully, we can write more useful tests as we go on 🤞."
+    },
+    {
+      "icon": "assets/icons/smartphone.png",
+      "source": "https://jubin01demo.web.app/#/",
+      "date": "12-12-2022",
+      "note": "How bout importing from blogger? i think that's what i'm gonna try next."
+    }
+  ]
+}
