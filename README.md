@@ -1,4 +1,5 @@
-# jubin01
+# Launchpad
+This app serves as a link to other app demos in this repository and elsewhere if present.
 
 ## Project setup
 ```
